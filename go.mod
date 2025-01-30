@@ -1,4 +1,4 @@
-module go-banking-lib
+module github.com/RihanoDev/go-banking-lib
 
 go 1.23.4
 
